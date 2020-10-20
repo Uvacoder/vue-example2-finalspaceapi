@@ -103,7 +103,6 @@ export default {
 .root {
   margin: 0 auto;
   padding: 0 10px;
-  color: #333;
   font-family: Verdana;
   font-weight: 300;
   display: flex;
